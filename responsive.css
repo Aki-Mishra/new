@@ -1,0 +1,25 @@
+.i-phone{
+    width: 330px;
+    height: 606px;
+    background: #605AA4;
+    overflow: hidden;
+}
+.login-btn-box,
+.ragister-btn-box{
+    position: relative;
+    top: 52px;
+    left: 20px;
+}
+.login-btn,
+.ragister-btn{
+    width: 229px;
+    height: 53px;
+}
+.less-than-icon{
+    width: 14px;
+    right: 53px;
+}
+.or-text{
+    top: 92px;
+    color: #413B82;
+}
